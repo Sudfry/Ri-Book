@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 日历本体 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,30 L76,30 A8,8 0 0 1 84,38 L84,78 A8,8 0 0 1 76,86 L32,86 A8,8 0 0 1 24,78 L24,38 A8,8 0 0 1 32,30 Z" />
+
+    <!-- 顶部色条 -->
+    <path
+        android:fillColor="#FF3B5BDB"
+        android:pathData="M24,38 A8,8 0 0 1 32,30 L76,30 A8,8 0 0 1 84,38 L84,48 L24,48 Z" />
+
+    <!-- 两个挂环 -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M36,24 L40,24 A2,2 0 0 1 42,26 L42,36 A2,2 0 0 1 40,38 L36,38 A2,2 0 0 1 34,36 L34,26 A2,2 0 0 1 36,24 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M68,24 L72,24 A2,2 0 0 1 74,26 L74,36 A2,2 0 0 1 72,38 L68,38 A2,2 0 0 1 66,36 L66,26 A2,2 0 0 1 68,24 Z" />
+
+    <!-- 勾 -->
+    <path
+        android:strokeColor="#FF2F9E62"
+        android:strokeWidth="6.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M36,62 L45,71 L62,52" />
+
+    <!-- 紧急红点 -->
+    <path
+        android:fillColor="#FFE5484D"
+        android:pathData="M74,72 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0" />
+</vector>

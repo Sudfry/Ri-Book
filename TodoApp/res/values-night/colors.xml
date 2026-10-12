@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF0E1014</color>
+    <color name="surface">#FF181B21</color>
+    <color name="surface_alt">#FF20242C</color>
+    <color name="text">#FFEDEFF3</color>
+    <color name="text_dim">#FF9AA1AC</color>
+    <color name="divider">#FF2A2F38</color>
+    <color name="accent">#FF8AA0FF</color>
+    <color name="accent_soft">#FF232B45</color>
+    <color name="on_color">#FF10131A</color>
+
+    <color name="overdue">#FFFF6B70</color>
+    <color name="today">#FFFF9A4D</color>
+    <color name="soon">#FFF5C542</color>
+    <color name="later">#FF4ED08C</color>
+    <color name="none">#FF8A8F98</color>
+    <color name="done">#FF5A616B</color>
+
+    <color name="money_out">#FFE88B72</color>
+    <color name="money_in">#FF5ECF94</color>
+    <color name="star">#FFE0B04A</color>
+</resources>

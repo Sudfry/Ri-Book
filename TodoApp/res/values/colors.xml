@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFF3F4F7</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surface_alt">#FFF7F8FB</color>
+    <color name="text">#FF15171C</color>
+    <color name="text_dim">#FF6B7280</color>
+    <color name="divider">#FFE2E5EA</color>
+    <color name="accent">#FF3B5BDB</color>
+    <color name="accent_soft">#FFE8ECFF</color>
+    <color name="on_color">#FFFFFFFF</color>
+
+    <color name="overdue">#FFE5484D</color>
+    <color name="today">#FFF76B15</color>
+    <color name="soon">#FFD99A00</color>
+    <color name="later">#FF2F9E62</color>
+    <color name="none">#FF8A8F98</color>
+    <color name="done">#FFADB2BA</color>
+
+    <!-- 记账语义色 -->
+    <color name="money_out">#FFE07A5F</color>
+    <color name="money_in">#FF2E9E6B</color>
+    <color name="star">#FFD9A441</color>
+
+    <color name="ic_launcher_background">#FF1D2A55</color>
+</resources>

@@ -1,0 +1,13 @@
+# 构建产物
+TodoApp/build/
+FakePay/build/
+_tmp/
+__pycache__/
+*.pyc
+
+# 签名密钥不要提交（首次构建会自动生成一个）
+tools/*.jks
+
+# APK：只保留 dist/ 下发布用的那几个
+*.apk
+!dist/*.apk

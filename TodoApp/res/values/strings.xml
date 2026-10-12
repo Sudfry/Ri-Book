@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SudfryTodo</string>
+    <string name="tab_today">今天</string>
+    <string name="tab_calendar">日历</string>
+    <string name="tab_list">全部</string>
+    <string name="add_task">新建任务</string>
+    <string name="edit_task">编辑任务</string>
+</resources>
